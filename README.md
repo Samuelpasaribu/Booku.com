@@ -6,3 +6,6 @@ Langkah untuk menjalankan program :
 3. kemudian jalankan pada browser anda dengan memanggil indeks.php
 
 #NoormanAritonang
+
+# Copyright & License
+  Copyright (c) 2019 Samuel Pasaribu GNU Public Lice
